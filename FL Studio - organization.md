@@ -9,6 +9,7 @@
   - Chillwave
   - Downtempo
   - Dream pop
+  - Hip-Hop Instrumental
   - Lo-fi Hip-Hop
   - Shoegaze
   
