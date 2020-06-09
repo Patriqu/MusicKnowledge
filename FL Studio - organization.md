@@ -22,7 +22,8 @@
     - Symphonic Trance
   
 - Soundtrack/Game Music
-  - Ambient Orchestra
+  - Ambient
   - Chillout
   - Epic Symphonic
+  - Medieval
   - Uptempo electronic
