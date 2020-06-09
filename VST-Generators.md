@@ -12,9 +12,12 @@
 
 ## Free
 
+- blueARP - arpeggiator, step sequencer
 - LABS free collections
 - Minimogue VA
+- Sonatina Orchestra
 - Sound Magic Piano One
+- VSCOS 2 Orchestra
 
 ## Paid
 
