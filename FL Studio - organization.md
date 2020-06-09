@@ -7,6 +7,7 @@
   - Ambient Trance
   - Chillout experimental
   - Chillwave
+  - Downtempo
   - Dream pop
   - Lo-fi Hip-Hop
   
