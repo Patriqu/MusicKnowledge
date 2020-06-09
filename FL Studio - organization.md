@@ -10,6 +10,7 @@
   - Downtempo
   - Dream pop
   - Lo-fi Hip-Hop
+  - Shoegaze
   
 - Trance/House
   - GoaTrance
