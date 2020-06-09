@@ -11,6 +11,10 @@
 
 ## Paid
 
+### Mixing/Mastering
+
+- [Fabfilter](https://www.fabfilter.com/)
+
 ## FL Studio Free
 
 ## FL Studio Paid
