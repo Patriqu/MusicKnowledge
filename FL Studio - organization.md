@@ -23,6 +23,7 @@
   
 - Soundtrack/Game Music
   - Ambient
+  - Ambient Orchestra
   - Chillout
   - Epic Symphonic
   - Medieval
