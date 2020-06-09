@@ -13,6 +13,8 @@
   - Lo-fi Hip-Hop
   - Shoegaze
   
+- Electro pop
+  
 - Trance/House
   - GoaTrance
   - House
