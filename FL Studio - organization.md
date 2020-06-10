@@ -5,11 +5,12 @@
 - Chillout
   - Ambient House
   - Ambient Trance
-  - Chillout experimental
+  - Chillstep
   - Chillwave
   - Downtempo
   - Dream pop
   - Hip-Hop Instrumental
+  - IDM
   - Lo-fi Hip-Hop
   - Shoegaze
   
@@ -31,3 +32,5 @@
   - Epic Symphonic
   - Medieval
   - Uptempo electronic
+  
+- Synthwave
