@@ -3,7 +3,7 @@
 ## Projects directories - by genres
 
 - Chillout
-  - Ambient House
+  - Ambient House/Techno
   - Ambient Trance
   - Chillstep
   - Chillwave
